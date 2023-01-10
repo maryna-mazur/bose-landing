@@ -22,4 +22,4 @@ The Bose landing page was implemented based on Figma's design.
 [Bose](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
 ## Feedback
 
-If you have any feedback, please reach out to me at marinemazu@gmail.com
+If you have any feedback, please reach out to me at marinemazur@gmail.com
